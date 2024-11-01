@@ -1,9 +1,9 @@
 CPP_FLAGS=-std=c++17 -Wshadow -Wall -D_GLIBCXX_DEBUG
 
-all: NAME
+all: 2
 
-NAME: NAME.cpp
-	g++-14 $(CPP_FLAGS) -g NAME.cpp -o NAME
+2: 2.cpp
+	g++-14 $(CPP_FLAGS) -g 2.cpp -o 2
 
 brute: brute.cpp
 	g++-14 $(CPP_FLAGS) -g brute.cpp -o brute
