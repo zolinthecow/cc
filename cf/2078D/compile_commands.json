@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/colinzhao/src/personal/cc/cf/2078D",
+    "command": "g++-14 -std=c++17 *.cpp",
+    "file": "*.cpp"
+  }
+]
