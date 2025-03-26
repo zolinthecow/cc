@@ -3,6 +3,7 @@
 !*/
 !*.*
 !Makefile
+!utils/cpbook-code
 
 # Ignore dSYM folders (macOS debugging symbols)
 *.dSYM/
