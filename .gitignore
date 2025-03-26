@@ -1,0 +1,8 @@
+# Ignore executable binary files (no file extension)
+*
+!*/
+!*.*
+!Makefile
+
+# Ignore dSYM folders (macOS debugging symbols)
+*.dSYM/
