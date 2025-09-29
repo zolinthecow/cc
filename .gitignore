@@ -7,3 +7,6 @@
 
 # Ignore dSYM folders (macOS debugging symbols)
 *.dSYM/
+
+# nvim-claude
+.claude/settings.local.json
